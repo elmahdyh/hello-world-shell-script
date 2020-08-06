@@ -1,3 +1,6 @@
+branches:
+  only:
+  - travis-dev
 language: bash
 
 before_script:
